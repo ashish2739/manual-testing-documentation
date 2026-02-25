@@ -1,27 +1,31 @@
-# Manual Testing Documentation
+# ShopperStack Manual Testing Project
 
-## Overview
-This repository contains manual testing documentation created for web applications using
-industry-standard QA practices.
+## Project Overview
+Performed manual testing on ShopperStack web application.
 
-## Applications Covered
-- ShopperStack Web Application
-- OrangeHRM Web Application
+## Scope of Testing
+- Functional Testing
+- UI Testing
+- Validation Testing
+- Boundary Value Testing
+- Negative Testing
 
-## Artifacts Included
-- Test Plans
-- Test Scenarios
-- Functional, Regression & Smoke Test Cases
-- Bug Reports
-- Test Execution Reports
-- Requirement Traceability Matrix (RTM)
+## Modules Covered
+- Registration
+- Login
+- Search
+- Add to Cart
+- Wishlist
+- Checkout
+- Logout
 
-## Mentioned Skills
+## Deliverables
+- Test Case Document (Excel)
+- Bug Report (If any defects found)
+
+## Tools Used
 - Manual Testing
-- Test Case Design
-- Defect Reporting
-- STLC & SDLC
-- Regression Testing
+- MS Excel
 
-## Author
-Ashish Ambi
+## Testing Approach
+CRE Approach (Consistency, Requirement, Expectation)
